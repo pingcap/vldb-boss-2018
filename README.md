@@ -15,3 +15,6 @@ https://github.com/pingcap/tidb-operator
 
 [Deploy TiDB to Kubernetes on Your Laptop
 ](https://github.com/pingcap/tidb-operator/blob/master/docs/local-dind-tutorial.md)
+
+[TPCH Queries](https://github.com/apache/spark/tree/master/sql/core/src/test/resources/tpch
+)
